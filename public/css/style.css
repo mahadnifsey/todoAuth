@@ -77,7 +77,6 @@ h2 {
     box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
     text-align: center;
     border-radius: 1rem;
-    border: 1px solid red;
 }
 
 #formContent2 {
@@ -92,7 +91,6 @@ h2 {
     box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
     text-align: center;
     border-radius: 1rem;
-    border: 1px solid red;
 }
 
 #formContent2 > form { /* Controls margin of items.*/
